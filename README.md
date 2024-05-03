@@ -4,8 +4,11 @@ This is the meta repository for the Roosevelt Island CXR (Community eXtended Rea
 
 
 Geo-synchronized video player https://github.com/FAR-Lab/RooseveltIslandCXR  
+
 Application for the headset and projection display https://github.com/FAR-Lab/RooseveltIsland_QuestAndProjector
+
 GPS navigation https://github.com/FAR-Lab/RooseveltIsland_PhoneAppGPS
+
 Roosevelt Island Digital Twin https://github.com/FAR-Lab/RI_DigitalTwin_UnityPackage
 
 
